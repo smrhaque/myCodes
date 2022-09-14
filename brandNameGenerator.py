@@ -4,5 +4,5 @@ print("Welcome to Band Name Generator!\n")
 city_user_grew_up_in = input("Where did you grow up?\n")
 # the name of user's pet
 name_of_user_pet = input("What is the name of your pet?\n")
-#printing the brand name
+# printing the brand name
 print(f"Your Band Name is : {city_user_grew_up_in} {name_of_user_pet}")
